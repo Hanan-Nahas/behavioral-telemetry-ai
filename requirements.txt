@@ -1,0 +1,7 @@
+streamlit>=1.30
+opencv-python>=4.9
+mediapipe>=0.10
+deepface>=0.0.90
+pandas>=2.0
+numpy>=1.24
+tf-keras
