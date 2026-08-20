@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Heavy Media Files & Binary Assets
+assets/*.mp4
+*.mp4
+*.avi
+*.mov
